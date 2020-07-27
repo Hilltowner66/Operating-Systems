@@ -2,5 +2,7 @@ Operating systems track the functioning of computer hardware. They monitor and p
 
 They also monitor CPU activity and load, energy use, battery life, as well as connected printers and ink levels.
 
+Operating systems provide a way for users to meaningfully interact with system data. They allow users to input, manipulate and manage data. This happens when a user clicks on icons on a display.
+
 
 
