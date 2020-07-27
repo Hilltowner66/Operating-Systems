@@ -4,5 +4,9 @@ They also monitor CPU activity and load, energy use, battery life, as well as co
 
 Operating systems provide a way for users to meaningfully interact with system data. They allow users to input, manipulate and manage data. This happens when a user clicks on icons on a display.
 
+Lastly, they manage programs running on a system. It often means that apps and other software can run on a computer simultaneously. The OS can keep them functioning properly.
+
+
+
 
 
