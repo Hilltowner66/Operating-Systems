@@ -1,0 +1,6 @@
+Operating systems track the functioning of computer hardware. They monitor and provide users with breakdowns of storage usage and availability. 
+
+They also monitor CPU activity and load, energy use, battery life, as well as connected printers and ink levels.
+
+
+
